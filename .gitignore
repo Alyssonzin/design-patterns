@@ -1,4 +1,5 @@
 node_modules/
 dist/
 .env
-adapter/reports/*.pdf
+adapter/reports
+decorator/images
