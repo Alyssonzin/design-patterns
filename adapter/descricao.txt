@@ -1,0 +1,5 @@
+O padrão Adapter é um padrão estrutural que permite integrar classes com interfaces incompatíveis. 
+Ele cria uma camada intermediária (adaptador) que traduz chamadas de um cliente para o formato esperado por um componente existente.
+
+Sua principal função é reutilizar código legado ou de terceiros sem alterar sua implementação, 
+facilitando a interoperabilidade entre módulos e reduzindo acoplamento.
