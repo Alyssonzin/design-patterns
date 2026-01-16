@@ -9,3 +9,5 @@ facilitando a interoperabilidade entre módulos e reduzindo acoplamento.
 ## Exemplo deste projeto
 
 O gerador de relatórios depende apenas de interfaces (adapter), não de bibliotecas concretas. Isso dá liberdade para trocar a biblioteca de PDF (ex.: pdfkit por outra) e também o mecanismo de file storage (ex.: Node FS por S3 ou memória) sem alterar o código principal. Em outras palavras, o adapter protege o núcleo do sistema de mudanças externas e reduz o custo de manutenção.
+
+Mais informações em: https://refactoring.guru/design-patterns/adapter
