@@ -20,3 +20,5 @@ emitir um Log no sistema, notificar os investidores de que houve uma mudança no
 
 Cada observador deve tratar suas prórpias regras de negócio e avaliar quando (e se deve) executar suas funções. Por exemplo,
 não queremos notificar o usuário a cada variação mínima do bitcoin, mas somente quando houver uma variação de no mínimo 10% do valor.
+
+Resumo completo: https://refactoring.guru/design-patterns/observer
