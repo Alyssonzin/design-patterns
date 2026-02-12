@@ -4,14 +4,12 @@ Este repositório tem como objetivo documentar e exemplificar brevemente diverso
 
 ## Como executar os exemplos
 
-Para executar o código de exemplo de um padrão específico, utilize o comando configurado no `package.json`.
-
-Exemplo:
+Para executar o código de exemplo de um padrão específico, utilize o comando configurado no `package.json`:
 ```bash
 npm run test -- <nomeDoPattern>/index
 ```
 
-Para rodar o exemplo do padrão **Observer**:
+Por exemplo, para rodar o padrão **Observer**:
 ```bash
 npm run test -- observer/index
 ```
